@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403042013143",
+    "project_id": "my-note-blannon",
+    "storage_bucket": "my-note-blannon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403042013143:android:91b4ac8a949bc5bdfd4592",
+        "android_client_info": {
+          "package_name": "com.blannonnetwork.mynote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtLOgN69hHj4EKkaw4CgzVLHrNuCx0pGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
