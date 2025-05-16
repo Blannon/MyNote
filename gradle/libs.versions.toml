@@ -2,7 +2,8 @@
 agp = "8.10.0"
 coilCompose = "3.2.0"
 converterGson = "2.9.0"
-daggerCompiler = "2.51.1"
+daggerCompiler = "2.56.2"
+desugar_jdk_libs = "2.1.5"
 firebaseBom = "33.13.0"
 hiltAndroid = "2.56.2"
 hiltAndroidCompiler = "2.56.2"
@@ -51,6 +52,7 @@ androidx-room-testing = { module = "androidx.room:room-testing", version.ref = "
 coil-compose = { module = "io.coil-kt.coil3:coil-compose", version.ref = "coilCompose" }
 converter-gson = { module = "com.squareup.retrofit2:converter-gson", version.ref = "converterGson" }
 dagger-compiler = { module = "com.google.dagger:dagger-compiler", version.ref = "daggerCompiler" }
+desugar_jdk_libs = { module = "com.android.tools:desugar_jdk_libs", version.ref = "desugar_jdk_libs" }
 firebase-analytics = { module = "com.google.firebase:firebase-analytics" }
 firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBom" }
 hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hiltAndroid" }
