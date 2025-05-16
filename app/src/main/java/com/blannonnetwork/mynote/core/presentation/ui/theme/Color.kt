@@ -1,4 +1,4 @@
-package com.blannonnetwork.mynote.ui.theme
+package com.blannonnetwork.mynote.core.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
